@@ -1,1 +1,7 @@
-# Solution-for-prediction-of-customer-behavior-in-call-centre-systems-12
+
+# SOLUTION FOR PREDICTION OF CUSTOMER BEHAVIOUR IN CALL CENTRE SYSTEMS
+
+### Team Members
+ Ayesha Rumana - 160923750001
+ Darakshan Fatima - 160923750008
+ Amtul Munem Umama - 160923750015
